@@ -9,3 +9,5 @@ https://gitee.com/onegot/Dol/tree/master/
 该服装包已删去仓库中img文件夹下与原版img中重复的图片
 
 兼容bes美化
+
+请配合ModLoader使用
